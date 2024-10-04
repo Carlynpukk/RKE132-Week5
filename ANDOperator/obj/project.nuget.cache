@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaIj6El2p0+PLCQFaw1otPss3Oroy2ve2+nhcR2693vGpGOrI+B2QiOLEdhahd7sj1iUO3MGKqjFXUqZ8BKvMg==",
+  "success": true,
+  "projectFilePath": "/Users/carlyn/Projects/Week5LogicalOperators/ANDOperator/ANDOperator.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlyn/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

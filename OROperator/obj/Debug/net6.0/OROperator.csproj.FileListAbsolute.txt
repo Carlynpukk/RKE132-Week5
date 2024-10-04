@@ -1,0 +1,15 @@
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/bin/Debug/net6.0/OROperator
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/bin/Debug/net6.0/OROperator.deps.json
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/bin/Debug/net6.0/OROperator.runtimeconfig.json
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/bin/Debug/net6.0/OROperator.dll
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/bin/Debug/net6.0/OROperator.pdb
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfo.cs
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.csproj.CoreCompileInputs.cache
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.dll
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/refint/OROperator.dll
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.pdb
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/OROperator.genruntimeconfig.cache
+/Users/carlyn/Projects/Week5LogicalOperators/OROperator/obj/Debug/net6.0/ref/OROperator.dll
